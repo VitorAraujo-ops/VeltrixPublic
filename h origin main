@@ -1,0 +1,5 @@
+[33m7aa2a01[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m fix: corrige problema de carregamento infinito na aplicação
+[33m7a80556[m[33m ([m[1;31morigin/main[m[33m)[m feat: adicionar script para corrigir problema de redirecionamento após registro
+[33m0b0f330[m fix: simplificar lógica de carregamento para evitar carregamento infinito
+[33mea2ece1[m fix: remover variáveis success não utilizadas no AuthContext
+[33mc5e52db[m fix: remover referências à coluna created_at que não existe
